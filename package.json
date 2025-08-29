@@ -1,6 +1,6 @@
 {
   "name": "notch-detected-event",
-  "version": "1.2.1",
+  "version": "1.3.0",
   "description": "A cross-browser script to detect the existence of a device notch",
   "main": "src/notch-detected-event.js",
   "scripts": {
